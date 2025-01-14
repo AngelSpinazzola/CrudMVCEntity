@@ -1,0 +1,29 @@
+# Carpetas y archivos generados automáticamente
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+*.db
+
+# Dependencias externas
+node_modules/
+wwwroot/lib/
+
+# Archivos de migración y configuración
+migrations/
+
+# Configuración local y específica del entorno
+launchSettings.json
+appsettings*.json
+
+# Otros archivos innecesarios
+*.exe
+*.dll
+*.pdb
+*.class
